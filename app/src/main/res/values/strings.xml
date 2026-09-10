@@ -16,7 +16,7 @@
 
 <resources>
     <!-- Name of the App -->
-    <string name="app_name">Tourist Guid Application </string>
+    <string name="app_name">Tourist Guide Application </string>
 
     <!-- List of Titles for the Bottom Navigation Menu items -->
     <string name="title_nav_places">Places</string>
